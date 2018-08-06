@@ -1,0 +1,11 @@
+#logo{
+    width:90px;
+    margin-left:510px;
+    
+}
+#foot_text,#email_text{
+    text-align: center;
+}
+#foot_text{
+    font-size: 11px;
+}
